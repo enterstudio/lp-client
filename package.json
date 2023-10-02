@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "css-loader": "^0.28.4",
+    "css-loader": "^5.0.0",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
     "normalize.css": "^7.0.0",
